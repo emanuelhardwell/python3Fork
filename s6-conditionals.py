@@ -34,7 +34,7 @@ y = 4
 
 if numero > 2 and numero <= 10:
     print("the number is greater than 2 and less or equal than 10")
-elif numero > 2 or numero <= 20:
+if numero > 2 or numero <= 20:
     print("the number is greater than 2 and less or equal than 20")
-elif not (x == y):
+if not (x == y):
     print("X is not equal than Y")
